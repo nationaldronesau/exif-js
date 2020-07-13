@@ -1,6 +1,6 @@
 {
-  "name": "exif-js",
-  "version": "2.3.0",
+  "name": "@nationaldrones/exif-js",
+  "version": "2.3.2",
   "description": "JavaScript library for reading EXIF image metadata",
   "main": "exif.js",
   "types": "exif.d.ts",
@@ -9,20 +9,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/exif-js/exif-js"
+    "url": "https://github.com/nationaldronesau/exif-js"
   },
   "keywords": [
     "exif"
   ],
   "author": "Jacob Seidelin",
   "maintainers": [
-    "Roald de Vries"
+    "Thornton Mills"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/exif-js/exif-js/issues"
+    "url": "https://github.com/nationaldronesau/exif-js/issues"
   },
-  "homepage": "https://github.com/exif-js/exif-js",
+  "homepage": "https://github.com/nationaldronesau/exif-js",
   "ignore": [
     "**/.*",
     "node_modules",
